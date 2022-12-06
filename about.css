@@ -1,0 +1,31 @@
+h1{background-color:rgb(4, 14, 3);
+color: rgb(244, 234, 234);
+width: 100vw;
+height: 8vh;
+padding: 0;margin: 0;
+text-align: center;
+text-overflow: ellipsis;
+animation:anii;
+animation-timing-function: ease-in-out;
+animation-duration: 1sec;
+animation-direction: alternate;}
+@keyframes aniii{from{width: 50vw;}
+to{width: 100vw;}}
+.again{
+background-color: blue;
+color: beige;
+height: 100vh;}
+.img img{background-color:  rgb(150, 95, 14);
+    width:24vh;
+    align-content: flex-end;
+
+padding:3px,3px,3px,3px;
+margin: 3px,3px,3px,3px;
+border: solid black;
+animation-name:tajj;
+animation: tajj ease-in-out 6s infinite forwards;}
+@keyframes tajj{from{width:24vh}
+to{width: 100vh;}}
+
+
+

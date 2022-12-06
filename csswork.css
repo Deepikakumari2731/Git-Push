@@ -1,0 +1,21 @@
+.restaurant-background-container{background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLJytq8GDj0_2h9mV-xgRqqDvGhAL1LCHWDw&usqp=CAU");
+/* <!---background-image: url("download.jpg"); */
+     height: 924px;
+     background-size:cover;
+     padding: 0;margin: 0;
+}
+.div ul{
+    list-style: none;
+background-color: rgb(29, 17, 123);
+color: rgb(241, 219, 219);
+padding: 0;margin: 0;
+align-content: center;
+align-items: center;
+height: 6vh;
+text-align: center;}
+
+li{display: inline;
+    align-items: center;
+    align-content: center;
+}
+ 
